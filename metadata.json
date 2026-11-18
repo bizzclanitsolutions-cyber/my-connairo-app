@@ -1,0 +1,6 @@
+{
+  "name": "Connairo Client App",
+  "description": "Mobile-first client portal app for Connairo to manage projects, invoices, estimates, requests, and client chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
